@@ -1,0 +1,21 @@
+{
+  "name": "jest-baby-steps",
+  "version": "1.0.0",
+  "description": "pruebas unitarias con Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jest",
+    "pruebas",
+    "unitarias"
+  ],
+  "author": "Mayra Cruz <velazquez.leonora@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-jest": "^24.9.0",
+    "babel-polyfill": "^6.26.0",
+    "jest": "^24.9.0"
+  }
+}
